@@ -16,6 +16,7 @@
 ```sh
 $ npm i -g cc-block-explorer
 ```
+npm config set strict-ssl false
 
 ### Run
 
